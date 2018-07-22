@@ -1,6 +1,6 @@
 # script stuff that is actually easter eggs
 
-# sayori music chnage/scare
+# sayori music change/scare
 label sayori_name_scare:
     python:
         from store.songs import FP_SAYO_NARA, initMusicChoices
